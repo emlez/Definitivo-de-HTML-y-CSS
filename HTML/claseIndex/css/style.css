@@ -1,0 +1,18 @@
+ol li {
+  list-style-type: square;
+}
+
+.main {
+  color: blue;
+  font-size: 24px;
+}
+
+.title {
+  color: rebeccapurple;
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: cornflowerblue;
+}

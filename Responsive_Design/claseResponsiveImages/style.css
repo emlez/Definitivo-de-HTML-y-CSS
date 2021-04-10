@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+.picture {
+  width: 500px;
+  height: 400px;
+}
+img {
+  width: 100%;
+}
